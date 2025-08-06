@@ -1,0 +1,9 @@
+[
+  {
+    "name": "H-BR",
+    "baseUrl": "http://node63.lunes.host:3101/",
+    "lang": "pt-BR",
+    "versionId": 1,
+    "isNsfw": true
+  }
+]
